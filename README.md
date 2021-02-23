@@ -1,5 +1,8 @@
 # smart-coffemachine
 
+> Project of course: Embedded systems and IoT ([unibo](https://www.unibo.it/it))
+
+
 The project consists in the creation of an embedded system that implements a coffee machine. 
 
 # Components:
