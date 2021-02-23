@@ -15,7 +15,7 @@ The project consists in the creation of an embedded system that implements a cof
 
 # Arduino 
 The part developed in Arduino deals with the management of the components that make up the subsystem
-![*System diagram*](https://github.com/coklefy/smart-greenhouse/blob/main/doc/Schemi%20circuiti/system.jpg?raw=true)
+![*System diagram*](https://github.com/coklefy/smart-coffemachine/blob/main/doc/FSM%20Diagram/arduino.jpg?raw=true)
 
 
 # Software architecture
